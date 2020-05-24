@@ -8,7 +8,7 @@ V rámci svého full-time jobu v Gamee (gamee.com) jsme vyvinuli super vendory, 
 
 ### gamee/nette-rabbitmq -> contributte/rabbitmq
 
-![][assets/rabbitmq.png]
+![](assets/rabbitmq.png "Rabbitmq")
 
 Odkaz na GitHub zde: [contributte/rabbitmq](https://github.com/contributte/rabbitmq)
 
@@ -16,7 +16,7 @@ Knihovna používá pro připojení k RabbitMQ výkonný vendor [bunny/bunny](ht
 
 ### gamee/php-jsonrpc -> contributte/jsonrpc
 
-![][assets/jsonrpc.png]
+![](assets/jsonrpc.png "JSON-RPC")
 
 Odkaz na GitHub zde: [contributte/rabbitmq](https://github.com/contributte/jsonrpc)
 
@@ -26,7 +26,7 @@ Integrace do Nette přináší jednoduchost mapování metod na třídy v aplika
 
 ## ublaboo/anabelle -> contributte/anabelle
 
-![][assets/anabelle.png]
+![](assets/anabelle.png "Anabelle")
 
 Projekt Anabelle jsem pořádně zatím nikde nezmiňoval, tak to napravím zde, protože úzce souvisí s výše zmíneným JSON-RPC.
 
