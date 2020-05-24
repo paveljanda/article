@@ -32,6 +32,6 @@ Projekt Anabelle jsem pořádně zatím nikde nezmiňoval, tak to napravím zde,
 
 JSON-RPC jsem si oblíbil a vyskytuje se tak na všech projektech, na kterých (spolu)pracuji. U každého API by měla být samozřejmostí přítomnost API dokumentace. Apiary či Swagger je fajn, ale jejich design je svázaný s REST API. Tak jsem jednoho krásného večera šel a rozšířil Markdown o makra include a pár dalších, obarvil a hle, je na světě .... rozšířený obarvený Markdown. :D Můj zatím nejoblíbenější API dokumentační tool! Pomocí Anabelle dokumentuji JSON-RPC, REST, dokonce v tom píši i své poznámky naprosto nesouvisející s programováním.
 
-GitHub: [contributte/anabelle](https://github.com/contributte/anabelle)
-Demo: https://examples.contributte.org/packages/anabelle
-Playground: https://github.com/planette/playground/tree/master/contributte-anabelle
+- GitHub: [contributte/anabelle](https://github.com/contributte/anabelle)
+- Demo: https://examples.contributte.org/packages/anabelle
+- Playground: https://github.com/planette/playground/tree/master/contributte-anabelle
